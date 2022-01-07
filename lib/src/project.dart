@@ -83,7 +83,8 @@ const Set<String> supportedFlutterPackages = {
   'flutter_riverpod',
   'hooks_riverpod',
   'url_launcher',
-  'dots_indicator'
+  'dots_indicator',
+  'image_picke'
 };
 
 /// The set of packages which indicate that Flutter Web is being used.
